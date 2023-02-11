@@ -15,10 +15,6 @@ import java.util.Scanner;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- *
- * @author shindano
- */
 public class TP_securite_informatique {
 
     /**
